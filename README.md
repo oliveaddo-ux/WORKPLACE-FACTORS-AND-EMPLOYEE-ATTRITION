@@ -148,6 +148,9 @@ The purpose of this project is to transform HR data into useful business informa
 The dataset contains employee-level information and should be handled responsibly. If similar data is used with real employees, personally identifiable information should be protected and access should be limited to authorized users.
 
 **Project Title:** Workplace Factors and Employee Attrition Analysis
+
 **Tool Used:** Microsoft Excel
+
 **Analysis Type:** Human Resources / Workforce Analytics
+
 Open to exciting collaborations in HR Analytics and Data Visualization! Let’s turn workforce data into powerful insights, compelling dashboards, and smarter people decisions.Let’s connect: olive18addo@gmail.com
